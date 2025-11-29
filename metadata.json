@@ -1,0 +1,5 @@
+{
+  "name": "NewsFlow Portal",
+  "description": "A modern, responsive news portal featuring dynamic content, category filtering, and a hidden admin panel for content management via Firebase and ImgBB.",
+  "requestFramePermissions": []
+}
